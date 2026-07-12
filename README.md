@@ -62,7 +62,7 @@ AI_Resume_Coach/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/pssmounika08/AI_Resume_Coach.git
+git clone https://github.com/yourusername/AI_Resume_Coach.git
 
 cd AI_Resume_Coach
 ```
