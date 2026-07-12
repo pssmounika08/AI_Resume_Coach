@@ -105,19 +105,6 @@ The application will open in your browser.
 
 ---
 
-## 📷 Screenshots
-
-Add screenshots of your application here.
-
-Example:
-
-- Home Page
-- Resume Analysis
-- ATS Score
-- Interview Questions
-
----
-
 ## 📦 Requirements
 
 - Python 3.10+
