@@ -125,7 +125,7 @@ The application will open in your browser.
 
 ---
 
-## 👩‍💻 Author
+## 👩‍💻 Developer
 
 **P. Sai Sri Mounika**
 
